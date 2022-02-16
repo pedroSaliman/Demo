@@ -1,0 +1,24 @@
+{
+  "data": [
+    {
+      "name": "kamal",
+      "job": "housekeeper"
+    },
+    {
+      "name": "walled",
+      "job": "reporter"
+    },
+    {
+      "name": "maha",
+      "job": "not"
+    },
+    {
+      "name": "mahmoue",
+      "job": "guard"
+    },
+    {
+      "name": "mahmoued",
+      "job": "reader"
+    }
+  ]
+}
